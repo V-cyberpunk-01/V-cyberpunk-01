@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @V-cyberpunk-01
-- I have ended the intership from MSR AI4sicence
+- I currently take the intership in Shanghai AI Lab AI4sicence group.
 - 👀 I’m interested in GNN, Diffusion and Ai4science
 - 🌱 I’m currently learning diffusion model ~
 - 📫 How to reach me : you can send email to shuizhou@shu.edu.cn
