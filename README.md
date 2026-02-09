@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @V-cyberpunk-01
 - I currently take the intership in Shanghai AI Lab AI4sicence group.
-- 👀 I’m interested in GNN, Diffusion and Ai4science
-- 🌱 I’m currently learning diffusion model ~
+- 👀 I’m interested in AI4Bio and high-level simulaiton of human body and inverse design, especially AIDD.
+- 🌱 I’m currently working on diffusion model.
 - 📫 How to reach me : you can send email to shuizhou@shu.edu.cn
 
 <!---
